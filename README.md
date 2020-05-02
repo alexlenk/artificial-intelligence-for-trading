@@ -4,4 +4,4 @@ This repository contains code for Udacity's [AI in Trading NanoDegree](https://w
 # Solutions
 * [Solution Project 1](/project/project_1/project_1_starter_solution.ipynb)
 * [Solution Project 2](/project/project_2/project_2_starter_solution.ipynb)
-* [Solution Project 3](/project/project_3/project_2_starter_solution.ipynb)
+* [Solution Project 3](/project/project_3/project_3_starter_solution.ipynb)
